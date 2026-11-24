@@ -10,7 +10,12 @@
 
 ### Currently learning
 
-Django
+### Currently learning
+
+- FastAPI and backend development
+- Game development
+- Exploring new technologies
+- Working with APIs and integrations
 
 ### Technologies
 
