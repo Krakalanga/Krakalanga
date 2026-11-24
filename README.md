@@ -10,7 +10,6 @@
 
 ### Currently learning
 
-### Currently learning
 
 - FastAPI and backend development
 - Game development
